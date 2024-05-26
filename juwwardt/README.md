@@ -2,8 +2,11 @@
 
 # **Apresentação Júlia Vitória (juwwardt)**
 
+
 </div>
+
 ## Um *pouquinho* sobre mim:
+
 > 💭 Meu nome é Júlia, tenho 20 anos e sou ingressante no curso de Sistemas de Informação na UNIFEI.
 
 > 📝 Sou trainee da byron e estou na diretoria de presidência. Espero aprender bastante e agregar ao time!

@@ -1,6 +1,11 @@
 
-## Apresentação Júlia Vitória (juwwardt)
-### Um *pouquinho* sobre mim:
+<div align="center">
+
+# **Apresentação Júlia Vitória (juwwardt)**
+
+</div>
+
+## Um *pouquinho* sobre mim:
 > 💭 Meu nome é Júlia, tenho 20 anos e sou ingressante no curso de Sistemas de Informação na UNIFEI.
 
 > 📝 Sou trainee da byron e estou na diretoria de presidência. Espero aprender bastante e agregar ao time!
@@ -14,13 +19,13 @@
 ___
 <div align="center">
 
-###### ❝Stay, up above the clouds
+##### ❝Stay, up above the clouds
 
-###### The flowers bloom like paradise
+##### The flowers bloom like paradise
 
-###### Dance, move your body
+##### Dance, move your body
 
-###### Fly like you’re dreaming❞
+##### Fly like you’re dreaming❞
 
 </div>
 

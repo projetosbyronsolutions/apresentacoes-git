@@ -1,5 +1,5 @@
 
-## **Apresentação Júlia Vitória (juwwardt)**
+## Apresentação Júlia Vitória (juwwardt)
 ### Um *pouquinho* sobre mim:
 > 💭 Meu nome é Júlia, tenho 20 anos e sou ingressante no curso de Sistemas de Informação na UNIFEI.
 

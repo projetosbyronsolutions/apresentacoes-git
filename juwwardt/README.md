@@ -1,5 +1,5 @@
 
-#### **Apresentação Júlia Vitória (juwwardt)**
+## **Apresentação Júlia Vitória (juwwardt)**
 
 ### Um *pouquinho* sobre mim:
 > 💭 Meu nome é Júlia, tenho 20 anos e sou ingressante no curso de Sistemas de Informação na UNIFEI.
@@ -13,13 +13,17 @@
 > > - Twenty Five Twenty One;
 > > - Move to Heaven.
 ___
-######❝Stay, up above the clouds
+<div align="center">
 
-######The flowers bloom like paradise
+###### ❝Stay, up above the clouds
 
-######Dance, move your body
+###### The flowers bloom like paradise
 
-######Fly like you’re dreaming❞
+###### Dance, move your body
+
+###### Fly like you’re dreaming❞
+
+</div>
 ___
 
 <div align="center">

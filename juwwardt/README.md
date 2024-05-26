@@ -28,4 +28,7 @@ Contato: [Linkedin](https://www.linkedin.com/in/j%C3%BAlia-arenhardt/)
 ![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) [Linkedin](https://www.linkedin.com/in/j%C3%BAlia-arenhardt/)
 
 
-![gif-avatar](https://cdn.discordapp.com/attachments/925523296194297907/1244099805878423622/avatar.gif?ex=6653e1bb&is=6652903b&hm=bdb5556f294deaa7f6c954638b9b7f7a9a3fadc4df7efc84a1cae4305d6677ce&)
+![gif-avatar](https://cdn.discordapp.com/attachments/925523296194297907/1244103181982629961/avatar.gif?ex=6653e4e0&is=66529360&hm=dbe4e687026b3d7012fc3a75386f5e0d08434dacf54213a800fe60ca9a551883&)
+
+
+[![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/j%C3%BAlia-arenhardt/)

@@ -1,7 +1,6 @@
 <div align="center">
 
 # **Apresentação Júlia Vitória (juwwardt)**
-___
 
 </div>
 

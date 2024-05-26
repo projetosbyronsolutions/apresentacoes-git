@@ -1,18 +1,17 @@
 
-**# Apresentação** Júlia Vitória (juwwardt)
+**#### Apresentação** Júlia Vitória (juwwardt)
 
 ### Um *pouquinho* sobre mim
-> 💭 Meu nome é Júlia, tenho 20 anos e sou ingressante no curso de Sistemas de Informação na UNIFEI.
+>     💭 Meu nome é Júlia, tenho 20 anos e sou ingressante no curso de Sistemas de Informação na UNIFEI.
 
-> 📝 Sou trainee da byron e estou na diretoria de presidência. Espero aprender bastante e agregar ao time!
+>     📝 Sou trainee da byron e estou na diretoria de presidência. Espero aprender bastante e agregar ao time!
 
-> 🎧 Gosto bastante de cantar e me diverto vendo doramas!
+>     🎧 Gosto bastante de cantar e me divirto vendo doramas!
 
-> 📹 Alguns dos meus doramas favoritos são:
-
-> > - Twinkling Watermelon;
-> > - Twenty Five Twenty One;
-> > - Move to Heaven.
+>     📹 Alguns dos meus doramas favoritos são:
+> >     - Twinkling Watermelon;
+> >     - Twenty Five Twenty One;
+> >     - Move to Heaven.
 ___
 ###### Stay, up above the clouds
 
@@ -26,7 +25,7 @@ ___
 
 Contato: [Linkedin](https://www.linkedin.com/in/j%C3%BAlia-arenhardt/)
 
-![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) [Linkedin](https://www.linkedin.com/in/j%C3%BAlia-arenhardt/)
 
 
-![gif-avatar](https://cdn.discordapp.com/attachments/925523296194297907/1244075038240669806/Design_sem_nome.gif?ex=6653caaa&is=6652792a&hm=1858e0ad8265c7a1b9e1630b9006aa8839202ff2c8a00e0854d5f00342e3d00f&)
+![gif-avatar](https://cdn.discordapp.com/attachments/925523296194297907/1244099805878423622/avatar.gif?ex=6653e1bb&is=6652903b&hm=bdb5556f294deaa7f6c954638b9b7f7a9a3fadc4df7efc84a1cae4305d6677ce&)

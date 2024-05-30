@@ -8,6 +8,12 @@ Fala turma, beleza? Bom, eu sou o João mas o pessoal me chama de Alvarenga (**q
  
  ![Esse é o nosso time de lolzinho](./img/time.jpg)
 
+
+
+
+
+
+
 Puxando para o lado acadêmico/profissional, realizei meu ensino médio no Instituto Federal de Pouso Alegre juntamente do curso técnico em informática, lá tive meus primeiros contatos com linguagens de programação, banco de dados e redes. Após me formar, entrei no curso de Engenharia de Materiais na UNIFEI no ano de 2020 mas, com a pandemia acabei não vindo para Itajubá e optei por trancar meu curso e ir dar a famosa estreada na CLT. Em 2020 comecei minha carreira na área de Redes em uma empresa de Internet em Pouso Alegre, após um curto tempo migrei para outra empresa, onde além de atuar no suporte técnico ao cliente (**o próprio cara que pede pra reiniciar o modem**), também comeceii a trabalhar com monitoramento de rede e configuração de equipamentos. Por fim, na metade do ano de 2022 migrei novamente para uma nova empresa do ramo onde minha função era mais voltada para o monitoramento da rede. Em 2022 com o fim da pandemia vim então para Itajubá e dei inicio ao curso. Como já tinha a intenção de migrar para o curso de Sistemas, consegui adiantar algumas matérias e tive o deferimento delas nas equivalências. Atualmente estou encerrando um estágio na Prefeitura de Itajubá e, ao mesmo tempo estou muito contente de estar realizando o processo de Treinee da byron. A curiosidade sobre a área de engenharia de software e de gerenciamento de projetos é algo que me empolga muito e me faz correr atrás de novos conhecimentos.
 
 No geral, sou um cara que ama conhecer novas pessoas e ter novas experiências e sou apelidado como um belo de um matraca. Esse é um pequeno resuminho sobre quem é o João e, a caso quem interessa, estarei sempre aberto a uma boa resenha. 

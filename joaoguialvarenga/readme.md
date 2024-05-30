@@ -1,6 +1,10 @@
 # Apresentação João Guilherme
 
 Fala turma, beleza? Bom, eu sou o João mas o pessoal me chama de Alvarenga (**que é o meu sobrenome**) ou de Alva. Tenho 25 anos e sou nativo da cidade de Pouso Alegre - MG. Atualmente estou matriculado no primeiro semestre de Sistemas de Informação mas estou na Unifei desde 2022. Eu moro em uma república com mais 4 bobões e é até que muito divertido. Falando mais sobre meus gostos, desde pequeno estive envolvido na área dos esportes (**o famoso joga de tudo mas não é bom em nada**) e, por volta dos 8 anos de idade meu irmão mais velho me apresentou os famosos joguinhos onlines. Desde então, os jogos são um dos meus hobbies favoritos. Atualmente eu jogo um lolzinho (**infelizmente**) e sou o atual suporte e capitão do time de lol aqui da UNIFEI. Gosto muito (**tipo muito mesmo**) de música e tento desenrolar um pouco no violão. Gosto bastante de assistir séries e também de alguns animes. Diria que eu sou uma bela mistura de nerd com um cara que ama estar fora de casa (**nem sei como isso combina**).
+
+
+
+##Esse é o nosso time de lol no JUTEL (Jogos do Inatel) do ano passado e eu sou o carinha da direita
  
  ![Esse é o nosso time de lolzinho](./img/time.jpg)
 

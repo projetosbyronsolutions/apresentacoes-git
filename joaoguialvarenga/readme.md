@@ -4,7 +4,7 @@ Fala turma, beleza? Bom, eu sou o João mas o pessoal me chama de Alvarenga (**q
 
 
 
-##Esse é o nosso time de lol no JUTEL (Jogos do Inatel) do ano passado e eu sou o carinha da direita
+## Esse é o nosso time de lol no JUTEL (Jogos do Inatel) do ano passado e eu sou o carinha da direita
  
  ![Esse é o nosso time de lolzinho](./img/time.jpg)
 

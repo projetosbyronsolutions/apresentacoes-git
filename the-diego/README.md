@@ -2,7 +2,7 @@
 
 Hey, me chamo **Diego** - por causa do Maradona mas sou bem mais ou menos jogando bola -
 
-não era pra eu estar aqui mas achei divertido a ideia e resolvi me intromer 😅. Sou de Cachoeira Paulista uma cidadezinha no vale do Paraíba que é famosa por ser a cidade da Canção Nova 🤢. Vim pra Itajubá em 2022 pra cursar _Ciência da Computação_ e entrei na bYRON em 2023. Algumas curiosidades:
+não era pra eu estar aqui mas achei divertido a ideia e resolvi me intrometer 😅. Sou de Cachoeira Paulista uma cidadezinha no vale do Paraíba que é famosa por ser a cidade da Canção Nova 🤢. Vim pra Itajubá em 2022 pra cursar _Ciência da Computação_ e entrei na bYRON em 2023. Algumas curiosidades:
 
 - Já trabalhei de: atendente no meu primeiro ano na lanchonete do RA, garçom, jovem aprendiz no setor fiscal, estagiário do DTI (Débito Técnico Infinito) e estagiário de back-end;
 - Sou fanboy de Linux 🐧 (mais pela comunidade, facilidade de desenvolvimento, ~ser superior ao windowns em 99.99% dos casos~ e pela liberdade que ele te dá)
@@ -20,7 +20,7 @@ Me inscrevi para ser diretor de projetos por ser o caminho mais rápido de entra
 
 ## The End
 
-Acabei me empolgando aqui 😅, venho passado por algumas semanas bem difíceis (papo de conflito interno, etc) e me questionei sobre tudo o que faço, chegando até a namorar a ideia de sair da byron. Mas se você chegou até aqui, vou te presentear com um conselho: **Não se feche em si mesmo!**
+Acabei me empolgando aqui 😅, venho passando por algumas semanas bem difíceis (papo de conflito interno, etc) e me questionei sobre tudo o que faço, chegando até a namorar a ideia de sair da byron. Mas se você chegou até aqui, vou te presentear com um conselho: **Não se feche em si mesmo!**
 
 Tu vai conseguir codar aquela feature; o que tu está empacado hoje, amanhã não vai estar mais; o importante é nunca se esquecer que **você não está sozinho** (ainda mais fazendo parte da byron :heart:).
 

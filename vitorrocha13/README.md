@@ -1,0 +1,3 @@
+# Apresentação Vitor (vitorrocha13)
+
+Meu nome é Vitor Rocha, tenho 18 anos. Nasci e cresci no interior de São Paulo, no Vale do Paraíba, em Lorena. Estou cursando meu terceiro período de sistemas de informação na Unifei e, atualmente, moro em uma republica em itajuba. No meu tempo livre, gosto de assistir mídias variadas (series, filmes, animes, vídeos no Youtube, jogos de futebol, basquete, etc), conversar com meus amigos, companheiros de republica e, principalmente, ouvir musica. 

@@ -13,8 +13,8 @@ Esse é o repositório para a entrega final da capacitação de Git e Github.
 - [joaoguialvarenga](./joaoguialvarenga)
 - [joevtap](./joevtap)
 - [juwwardt](./juwwardt)
-- [renanlopes-byron](./byron)
-- [the-diego](./diego)
+- [renanlopes-byron](./renanlopes-byron)
+- [the-diego](./the-diego)
 - [vitorrocha13](./vitorrocha13)
 - [vwracity](./vwracity)
 

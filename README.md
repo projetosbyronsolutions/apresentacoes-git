@@ -4,19 +4,19 @@ Esse é o repositório para a entrega final da capacitação de Git e Github.
 
 ## Apresentações
 
-- [DanielMelo](/DanielMelo)
-- [GabrielBF089](/GabrielBF089)
-- [HenriqueBatista1](/HenriqueBatista1)
-- [MariaFabrys](/MariaFabrys)
-- [PedroS](/PedroS)
-- [camargolauraa](/camargolauraa)
-- [joaoguialvarenga](/joaoguialvarenga)
-- [joevtap](/joevtap)
-- [juwwardt](/juwwardt)
-- [renanlopes-byron](/byron)
-- [the-diego](/diego)
-- [vitorrocha13](/vitorrocha13)
-- [vwracity](/vwracity)
+- [DanielMelo](./DanielMelo)
+- [GabrielBF089](./GabrielBF089)
+- [HenriqueBatista1](./HenriqueBatista1)
+- [MariaFabrys](./MariaFabrys)
+- [PedroS](./PedroS)
+- [camargolauraa](./camargolauraa)
+- [joaoguialvarenga](./joaoguialvarenga)
+- [joevtap](./joevtap)
+- [juwwardt](./juwwardt)
+- [renanlopes-byron](./byron)
+- [the-diego](./diego)
+- [vitorrocha13](./vitorrocha13)
+- [vwracity](./vwracity)
 
 ## Instruções para a entrega
 

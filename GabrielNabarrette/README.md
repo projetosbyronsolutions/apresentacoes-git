@@ -1,0 +1,3 @@
+# Apresentação Gabriel Nabarrette
+ 
+Meu nome é Gabriel Victor Nabarrette e sou estudante de Engenharia de Materiais pela Universidade Federal de Itajubá (UNIFEI). Nasci em Pouso Alegre - MG, atualmente tenho 22 anos. Essa é minha primeira vez que estou fazendo programação, fiquei perdido nas minhas duas primeiras semanas, mas agora estou pegando o jeito e indo atras do prejuizo. Sinto muito feliz por estar tendo essa oportunidade de estar aqui com vocês e espero muito dar o meu melhor para essa equipe.
